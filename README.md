@@ -1,4 +1,5 @@
 Employee Attrition & Department Prediction Model
+
 This project aims to predict employee attrition and department assignment using a multi-output classification neural network. By leveraging a dataset with features related to employee demographics, performance, and organizational details, the model can simultaneously predict whether an employee is likely to leave the company (attrition) and their associated department.
 
 Project Overview
